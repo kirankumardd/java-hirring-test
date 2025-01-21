@@ -6,7 +6,6 @@ Given an array of integers ```nums```, return the least index value up to which 
 ```
 Input: nums = [1, 5, 3, 7, 3, 7, 5, 1]
 Output: 3
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1]
 ```
  
 **Example 2:**
